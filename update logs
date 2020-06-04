@@ -1,4 +1,6 @@
-local updLog ={
-	["1"] = {"[+] Using Aztup Lib"},
-	["2"] = {"[-] Sexy old UI gone :("},
-}
+local pie = {
+	updLog = {
+		["1"] = {"[+] Using Aztup Lib"},
+		["2"] = {"[-] Sexy old UI gone :("},
+	};
+};
