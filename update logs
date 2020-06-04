@@ -1,0 +1,3 @@
+local updLog = {
+		["1"] = {"[+] New GUI"},
+}
