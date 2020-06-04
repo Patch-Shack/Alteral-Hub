@@ -1,3 +1,4 @@
-local updLog = {
-		["1"] = {"[+] New GUI"},
+local updLog ={
+	["1"] = {"[+] Using Aztup Lib"},
+	["2"] = {"[-] Sexy old UI gone :("},
 }
